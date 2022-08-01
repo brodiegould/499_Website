@@ -3029,6 +3029,12 @@ input[type="button"].btn-block {
   transform:rotate(-65deg);
 }       
 
+#app_img{
+  border-radius: 2%;
+  width: 90%;
+  margin: 80px 20px;
+}
+
 .navbar-brand {
   display: inline-block;
   padding-top: 0.0625rem;

@@ -75,6 +75,12 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
   transform:rotate(-65deg);
 }
 
+#app_img{
+  border-radius: 2%;
+  width: 90%;
+  margin: 80px 20px;
+}
+
 body {
   margin: 0;
   font-family: "Inter UI", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";

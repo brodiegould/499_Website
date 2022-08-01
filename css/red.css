@@ -85,6 +85,12 @@ body {
   transform:rotate(-65deg);
 }
 
+#app_img{
+  border-radius: 2%;
+  width: 90%;
+  margin: 80px 20px;
+}
+
 [tabindex="-1"]:focus {
   outline: 0 !important; }
 
