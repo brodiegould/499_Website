@@ -70,7 +70,7 @@ article, aside, dialog, figcaption, figure, footer, header, hgroup, main, nav, s
 }
 .glow-text{
   position:absolute;
-  right: 60%;
+  right: 44%;
   bottom: 24%;
   transform:rotate(-65deg);
 }
