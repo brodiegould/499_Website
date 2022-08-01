@@ -172,8 +172,8 @@ a:not([href]):not([tabindex]) {
 }
 .glow-text{
   position:absolute;
-  right: 44%;
-  bottom: 24%;
+  right: 41%;
+  bottom: 29%;
   transform:rotate(-65deg);
 }
 
